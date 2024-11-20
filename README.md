@@ -1,6 +1,15 @@
-# Awesome Game Models
+# Awesome Game Models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A collection of papers and applications in the field of interactive video world models.
+Video game world models are awesome!
+
+Here we collect papers, open-source projects, and applications of such game models.
+
+## Contents
+
+- [DIAMOND](#diamond)
+- [Lucid](#lucid)
+- [Oasis](#oasis)
+- [GameNGen](#gamengen)
 
 ## DIAMOND
 
@@ -28,3 +37,8 @@ Play: https://oasis.decart.ai/
 
 Blog post: https://www.decart.ai/articles/oasis-interactive-ai-video-game-model
 
+## GameNGen
+
+Homepage: https://gamengen.github.io/
+
+arXiv: https://arxiv.org/abs/2408.14837
