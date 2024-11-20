@@ -1,4 +1,4 @@
-# Awesome Game Models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome World Model Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Video game world models are awesome!
 
