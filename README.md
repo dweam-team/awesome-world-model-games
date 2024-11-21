@@ -12,9 +12,9 @@ Contributions are very welcome!
 
 ## Contents
 
-- [DIAMOND (CS:GO, Atari Games & Mario Kart)](#diamond)
-- [Oasis (Minecraft)](#oasis)
-- [Lucid (Minecraft)](#lucid-v1)
+- [DIAMOND](#diamond)
+- [Oasis](#oasis)
+- [Lucid](#lucid-v1)
 - [Other Games](#other)
 - [Papers](#papers)
 
@@ -72,7 +72,7 @@ One size of the model and inference code are open-source.
 
 <img src="https://github.com/user-attachments/assets/e08a2fdd-232d-4b9c-8f1c-8f9b9f1babe7" width="500"/>
 
-## Other
+## Other Games
 
 ### Matrix
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://thematrix1999.github.io/)
