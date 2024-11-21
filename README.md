@@ -60,7 +60,7 @@ A 500M model and inference code are open-source.
 
 <img src="https://cdn.prod.website-files.com/671a36395e56dbd229da0e0e/6723b0a589d2f810325afdcb_4.webp" width="500"/>
 
-## Lucid V1 
+## Lucid 
 
 ### Minecraft
 ![20 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-20%20FPS-green)
