@@ -1,12 +1,12 @@
 # Awesome World Model Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Video game world models are awesome!
+World model games are awesome!
 
-Here we collect papers, open-source projects, and applications of such game models.
+Here we collect papers, open-source projects, and applications of such interactive video models.
 
 Click the badges below the heading to visit the project's relevant links.
 
-The badge ![X FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-X%20FPS-green) indicates an estimate of the frames per second of the model when run on an RTX 4090 GPU at reasonable inference settings. In case of ![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green), model performance on an RTX 4090 has not yet been reported. 
+The badge ![X FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-X%20FPS-green) indicates an estimate of the frames per second of the model when run on an NVIDIA RTX 4090 GPU at reasonable inference settings. In case of ![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green), model performance on an RTX 4090 has not yet been reported. 
 
 Contributions are very welcome!
 
