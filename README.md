@@ -4,6 +4,12 @@ Video game world models are awesome!
 
 Here we collect papers, open-source projects, and applications of such game models.
 
+Click the badges below the heading to visit the project's relevant links.
+
+The badge ![X FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-X%20FPS-green) indicates an estimate of the frames per second of the model when run on an RTX 4090 GPU at reasonable inference settings. In case of ![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green), model performance on an RTX 4090 has not yet been reported. 
+
+Contributions are very welcome!
+
 ## Contents
 
 - [DIAMOND](#diamond)
@@ -18,7 +24,8 @@ Here we collect papers, open-source projects, and applications of such game mode
 
 Open-source training and inference, launched with 26 atari games and CS:GO.
 
-### Atari Games 
+### Atari Games
+![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/eloialonso/diamond) 
 
 100M models of 26 Atari games.
@@ -26,11 +33,13 @@ Open-source training and inference, launched with 26 atari games and CS:GO.
 <img src="https://github.com/user-attachments/assets/eb6b72eb-73df-4178-8a3d-cdad80ff9152" width="500"/>
 
 ### CS:GO 
+![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/eloialonso/diamond/tree/csgo)
 
 <img src="https://github.com/user-attachments/assets/dcbdd523-ca22-46a9-bb7d-bcc52080fe00" width="500"/>
 
 ### Mario Kart 64 
+![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/Dere-Wah/AI-MarioKart64)
 [![Demo](https://img.shields.io/badge/demo-green)](https://www.youtube.com/watch?v=C1Xrxa4qNk4)
 [![Blog](https://img.shields.io/badge/blog-orange)](https://derewah.dev/projects/ai-mariokart)
@@ -40,6 +49,7 @@ Open-source training and inference, launched with 26 atari games and CS:GO.
 ## Minecraft
 
 ### Lucid V1 
+![20 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-20%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/SonicCodes/lucid-v1)
 [![Demo](https://img.shields.io/badge/demo-green)](https://lucidv1-demo.vercel.app/)
 [![Blog](https://img.shields.io/badge/blog-orange)](https://ramimo.substack.com/p/lucid-v1-a-world-model-that-does)
@@ -47,6 +57,7 @@ Open-source training and inference, launched with 26 atari games and CS:GO.
 One size of the model and inference code are open-source.
 
 ### Oasis
+![<1 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3C1%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/etched-ai/open-oasis)
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://www.decart.ai/)
 [![Demo](https://img.shields.io/badge/demo-green)](https://oasis.decart.ai/)
