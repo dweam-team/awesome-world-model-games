@@ -76,7 +76,7 @@ A 500M model and inference code are open-source.
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://thematrix1999.github.io/)
 [![Paper](https://img.shields.io/badge/paper-pink)](https://thematrix1999.github.io/article/the_matrix.pdf)
 
-2.7B model trained on data from Forza Horizon 5 and Cyberpunk 2077 as well as real-world footage. Open source and demo coming soon.
+2.7B model trained on data from Forza Horizon 5 and Cyberpunk 2077 as well as real-world footage.
 
 <img src="https://github.com/user-attachments/assets/c3fbae6d-1393-4fd9-97d8-db61bed139e0" width="500"/>
 
