@@ -17,12 +17,11 @@ Contributions are very welcome!
 - [Other](#other)
 
 ## DIAMOND
-[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/eloialonso/diamond) 
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://diamond-wm.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2405.12399)
 [![Discord](https://img.shields.io/badge/discord-purple)](https://discord.gg/74vha5RWPg)
 
-Open-source training and inference, launched with 26 atari games and CS:GO.
+Open-source training and inference, initially launched with 26 atari games and CS:GO.
 
 ### Atari Games
 ![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
