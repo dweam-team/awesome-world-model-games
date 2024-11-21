@@ -14,9 +14,7 @@ Contributions are very welcome!
 
 - [DIAMOND](#diamond)
 - [Minecraft](#minecraft)
-- [Matrix](#matrix)
 - [Other](#other)
-- [Papers Please](#papers-please)
 
 ## DIAMOND
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://diamond-wm.github.io/)
@@ -72,9 +70,9 @@ A 500M model and inference code are open-source.
 
 <img src="https://cdn.prod.website-files.com/671a36395e56dbd229da0e0e/6723b0a589d2f810325afdcb_4.webp" width="500"/>
 
-## Matrix
-![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
-[![Open Source Coming Soon](https://img.shields.io/badge/(coming_soon)-open_source-blue)](#Matrix)
+## Other
+
+### Matrix
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://thematrix1999.github.io/)
 [![Paper](https://img.shields.io/badge/paper-pink)](https://thematrix1999.github.io/article/the_matrix.pdf)
 
@@ -82,10 +80,7 @@ A 500M model and inference code are open-source.
 
 <img src="https://github.com/user-attachments/assets/c3fbae6d-1393-4fd9-97d8-db61bed139e0" width="500"/>
 
-## Other
-
-### Doom (GameNGen)
-![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
+### GameNGen
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://gamengen.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2408.14837)
 [![Paper](https://img.shields.io/badge/paper-pink)](https://arxiv.org/pdf/2408.14837)
@@ -95,16 +90,9 @@ It runs Doom! The grandfather paper of the field.
 [![Watch the video](https://img.youtube.com/vi/O3616ZFGpqw/0.jpg)](https://www.youtube.com/watch?v=O3616ZFGpqw)
 
 ### Pokemon Overworld
-![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-green)
 [![Demo](https://img.shields.io/badge/demo-yellow)](https://madebyoll.in/posts/game_emulation_via_dnn/demo)
 [![Blog](https://img.shields.io/badge/blog-orange)](https://madebyoll.in/posts/game_emulation_via_dnn/)
 
 An early model trained on a 4th Generation Pokemon game.
 
 ![Pokemon](https://madebyoll.in/posts/game_emulation_via_dnn/neural_notwork_3.gif)
-
-## Papers Please
-
-- [Diffusion for World Modeling: Visual Details Matter in Atari](https://arxiv.org/pdf/2405.12399) - Diamond Paper (2024)
-- [Diffusion Models are Real-time Game Engines](https://arxiv.org/pdf/2408.14837) - GameNGen Paper (2024)
-- [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://thematrix1999.github.io/article/the_matrix.pdf) - Matrix Paper (2024)
