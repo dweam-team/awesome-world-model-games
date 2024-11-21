@@ -14,7 +14,7 @@ Contributions are very welcome!
 
 - [DIAMOND](#diamond)
 - [Oasis](#oasis)
-- [Lucid](#lucid-v1)
+- [Lucid](#lucid)
 - [Other Games](#other)
 - [Papers](#papers)
 
