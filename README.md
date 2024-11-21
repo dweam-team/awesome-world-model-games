@@ -42,6 +42,8 @@ Source: https://github.com/eloialonso/diamond/tree/csgo
 
 ### Mario Kart 64 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/Dere-Wah/AI-MarioKart64)
 
+![mariokart](https://github.com/user-attachments/assets/0dbdfeec-4d4d-4f70-8ba1-3e728138fd0a)
+
 Demo: https://www.youtube.com/watch?v=C1Xrxa4qNk4
 
 Blog post: https://derewah.dev/projects/ai-mariokart
