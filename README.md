@@ -15,7 +15,7 @@ Contributions are very welcome!
 - [DIAMOND](#diamond)
 - [Oasis](#oasis)
 - [Lucid](#lucid)
-- [Other Games](#other)
+- [Other Games](#other-games)
 - [Papers](#papers)
 
 ## DIAMOND
