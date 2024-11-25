@@ -1,6 +1,6 @@
 # Awesome World Model Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-World model games are awesome!
+World model games are awesome! We can now play fully generative (and hallucinated) games, where anything is possible.
 
 Here we collect papers, open-source projects, and applications of such interactive video models.
 
@@ -15,6 +15,7 @@ Contributions are very welcome!
 - [DIAMOND](#diamond)
 - [Oasis](#oasis)
 - [Lucid](#lucid)
+- [GameGAN](#gamegan)
 - [Other Games](#other-games)
 - [Papers](#papers)
 
@@ -72,6 +73,29 @@ One size of the model and inference code are open-source.
 
 <img src="https://github.com/user-attachments/assets/e08a2fdd-232d-4b9c-8f1c-8f9b9f1babe7" width="500"/>
 
+## GameGAN
+
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://research.nvidia.com/labs/toronto-ai/GameGAN/)
+[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2005.12126)
+
+The Great-Grandfather of the field. Running games on a generative adversarial network.
+
+<img src="https://research.nvidia.com/labs/toronto-ai/GameGAN/assets/pacman_bandai_small.gif" width="500"/>
+
+### Doom
+
+[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/nv-tlabs/GameGAN_code)
+
+<img src="https://research.nvidia.com/labs/toronto-ai/GameGAN/assets/vizdoom_small.gif" width="500"/>
+
+### GTA 5
+
+[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/Sentdex/GANTheftAuto)
+
+Fork of NVIDIA's research.
+
+<img src="https://github.com/Sentdex/GANTheftAuto/raw/main/_img/gantheftauto.gif" width="500"/>
+
 ## Other Games
 
 ### Matrix
@@ -85,7 +109,7 @@ One size of the model and inference code are open-source.
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://gamengen.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2408.14837)
 
-It runs Doom! The grandfather paper of the field.
+A transformer runs Doom! The grandfather paper of the field.
 
 [![Watch the video](https://img.youtube.com/vi/O3616ZFGpqw/0.jpg)](https://www.youtube.com/watch?v=O3616ZFGpqw)
 
@@ -112,4 +136,3 @@ Game Papers:
 - [Diffusion for World Modeling: Visual Details Matter in Atari](https://arxiv.org/pdf/2405.12399) - Diamond Paper (Oct 2024).
 - [Diffusion Models are Real-time Game Engines](https://arxiv.org/pdf/2408.14837) - GameNGen Paper (Aug 2024).
 - [Genie: Generative Interactive Environments](https://arxiv.org/pdf/2402.15391) - Genie Paper (Feb 2024).
-
