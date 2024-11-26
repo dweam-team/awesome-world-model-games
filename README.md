@@ -41,12 +41,12 @@ Open-source training and inference, initially launched with 26 atari games and C
 <img src="https://github.com/user-attachments/assets/dcbdd523-ca22-46a9-bb7d-bcc52080fe00" width="500"/>
 
 ### Mario Kart 64 
-![??? FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-%3F%3F%3F%20FPS-yellow)
+![>10 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090->10%20FPS-green)
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/Dere-Wah/AI-MarioKart64)
 [![Demo](https://img.shields.io/badge/demo-green)](https://www.youtube.com/watch?v=C1Xrxa4qNk4)
 [![Blog](https://img.shields.io/badge/blog-orange)](https://derewah.dev/projects/ai-mariokart)
 
-![mariokart](https://github.com/user-attachments/assets/0dbdfeec-4d4d-4f70-8ba1-3e728138fd0a)
+<img src="https://github.com/user-attachments/assets/8b4e80a3-0b3a-40c9-9025-4c7efd2b24be" width="500"/>
 
 ## Oasis
 
