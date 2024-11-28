@@ -57,7 +57,12 @@ Open-source training and inference, initially launched with 26 atari games and C
 [![Demo](https://img.shields.io/badge/demo-green)](https://oasis.decart.ai/)
 [![Blog](https://img.shields.io/badge/blog-orange)](https://www.decart.ai/articles/oasis-interactive-ai-video-game-model)
 
-A 500M model and inference code are open-source.
+A 500M model and original inference code are open-source. 
+
+![9 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-9%20FPS-green)
+[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/XmYx/open-oasis)
+
+Community Fork with adjustments to compiling has reported higher FPS, link above.
 
 <img src="https://cdn.prod.website-files.com/671a36395e56dbd229da0e0e/6723b0a589d2f810325afdcb_4.webp" width="500"/>
 
