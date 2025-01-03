@@ -1,6 +1,6 @@
 # Awesome World Model Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-World model games are awesome! We can now play fully generative (and hallucinated) games, where anything is possible.
+World model games are awesome! We can now play fully generative (and hallucinated) games, where anything is possible. These are interactive video models trained on gameplay data and player inputs, so they can predict what the next frame of the game will be based on the previous frames and
 
 Here we collect papers, open-source projects, and applications of such interactive video models.
 
@@ -12,11 +12,17 @@ Contributions are very welcome!
 
 ## Contents
 
-- [DIAMOND](#diamond)
-- [Oasis](#oasis)
-- [Lucid](#lucid)
-- [GameGAN](#gamegan)
-- [Other Games](#other-games)
+**Open Source Models**
+  - [DIAMOND](#diamond)
+  - [Oasis](#oasis)
+  - [Lucid](#lucid)
+  - [GameGAN](#gamegan)
+  - [Other Games](#other-games)
+
+**Applications**
+  - [World Arcade](#world-arcade)
+
+**Papers**
 - [Papers](#papers)
 
 ## DIAMOND
@@ -39,6 +45,12 @@ Open-source training and inference, initially launched with 26 atari games and C
 [![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/eloialonso/diamond/tree/csgo)
 
 <img src="https://github.com/user-attachments/assets/dcbdd523-ca22-46a9-bb7d-bcc52080fe00" width="500"/>
+
+### Yume Nikki
+![>10 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090->10%20FPS-green)
+[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/theoden8/diamond-yumenikki)
+
+<img src="https://github.com/user-attachments/assets/3e578eae-b414-4961-8504-57b5ad4ca6ca" width="500"/>
 
 ### Mario Kart 64 
 ![>10 FPS on RTX 4090](https://img.shields.io/badge/RTX%204090->10%20FPS-green)
@@ -78,6 +90,16 @@ One size of the model and inference code are open-source.
 
 <img src="https://github.com/user-attachments/assets/e08a2fdd-232d-4b9c-8f1c-8f9b9f1babe7" width="500"/>
 
+## World Arcade
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://worldarcade.gg/)
+[![Open Source](https://img.shields.io/badge/open%20source-blue)](https://github.com/dweam-team/world-arcade)
+[![Windows Application](https://img.shields.io/badge/windows%20application-grey)](https://github.com/dweam-team/world-arcade/releases/latest/download/dweam-windows.zip)
+[![Discord](https://img.shields.io/badge/discord-purple)](https://discord.gg/aY3GAqMqBf) 
+
+Setup to play all of the games above on Windows and Linux, with parameter selection to trade game performance for stability. 
+
+<img src="https://github.com/user-attachments/assets/cf1c553f-54cd-4f90-af52-457020070c4c" width="500"/>
+
 ## GameGAN
 
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://research.nvidia.com/labs/toronto-ai/GameGAN/)
@@ -103,6 +125,21 @@ Fork of NVIDIA's research.
 
 ## Other Games
 
+### Genie
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://sites.google.com/view/genie-2024/)
+[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2402.15391)
+
+Seminal paper generalising world models to different games (and pictures!), focused on 2D platformers.
+
+<img src="https://github.com/user-attachments/assets/3b476676-224f-4800-bc39-56dbd84944cb" width="500"/>
+
+### Genie 2
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+
+Building on the original paper: generalisable world model for 3D worlds, based on a single image prompt.
+
+<img src="https://github.com/user-attachments/assets/2967feb4-d512-4465-80d1-c1f85dc04fca" width="500"/>
+
 ### Matrix
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://thematrix1999.github.io/)
 
@@ -117,14 +154,6 @@ Fork of NVIDIA's research.
 A transformer runs Doom! The grandfather paper of the field.
 
 [![Watch the video](https://img.youtube.com/vi/O3616ZFGpqw/0.jpg)](https://www.youtube.com/watch?v=O3616ZFGpqw)
-
-### Genie
-[![Homepage](https://img.shields.io/badge/homepage-gray)](https://sites.google.com/view/genie-2024/)
-[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2402.15391)
-
-Seminal paper generalising world models to different games (and pictures!), focused on 2D platformers.
-
-<img src="https://github.com/user-attachments/assets/3b476676-224f-4800-bc39-56dbd84944cb" width="500"/>
 
 ### Pokemon Overworld
 [![Demo](https://img.shields.io/badge/demo-yellow)](https://madebyoll.in/posts/game_emulation_via_dnn/demo)
