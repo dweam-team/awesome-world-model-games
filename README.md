@@ -11,13 +11,13 @@ The badge ![X FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-X%20FPS-g
 Contributions are very welcome!
 
 ## Contents
-  - [DIAMOND](#diamond)
-  - [Oasis](#oasis)
-  - [Lucid](#lucid)
-  - [GameGAN](#gamegan)
-  - [Other Games](#other-games)
-  - [World Arcade](#world-arcade)
-  - [Papers](#papers)
+- [DIAMOND](#diamond)
+- [Oasis](#oasis)
+- [Lucid](#lucid)
+- [World Arcade](#world-arcade)
+- [GameGAN](#gamegan)
+- [Other Games](#other-games)
+- [Papers](#papers)
 
 ## DIAMOND
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://diamond-wm.github.io/)
