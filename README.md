@@ -1,6 +1,6 @@
 # Awesome World Model Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-World model games are awesome! We can now play fully generative (and hallucinated) games, where anything is possible. These are interactive video models trained on gameplay data and player inputs, so they can predict what the next frame of the game will be based on the previous frames and
+World model games are awesome! We can now play fully generative (and hallucinated) games, where anything is possible. These are interactive video models trained on gameplay data and button inputs, so they can predict what the next frame of the game will be based on the previous frames and user inputs.
 
 Here we collect papers, open-source projects, and applications of such interactive video models.
 
@@ -11,19 +11,13 @@ The badge ![X FPS on RTX 4090](https://img.shields.io/badge/RTX%204090-X%20FPS-g
 Contributions are very welcome!
 
 ## Contents
-
-**Open Source Models**
   - [DIAMOND](#diamond)
   - [Oasis](#oasis)
   - [Lucid](#lucid)
   - [GameGAN](#gamegan)
   - [Other Games](#other-games)
-
-**Applications**
   - [World Arcade](#world-arcade)
-
-**Papers**
-- [Papers](#papers)
+  - [Papers](#papers)
 
 ## DIAMOND
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://diamond-wm.github.io/)
