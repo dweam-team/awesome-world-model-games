@@ -16,6 +16,7 @@ Contributions are very welcome!
 - [Lucid](#lucid)
 - [World Arcade](#world-arcade)
 - [GameGAN](#gamegan)
+- [WHAM](
 - [Other Games](#other-games)
 - [Papers](#papers)
 
@@ -102,6 +103,19 @@ Setup to play all of the games above on Windows and Linux, with parameter select
 The Great-Grandfather of the field. Running games on a generative adversarial network.
 
 <img src="https://research.nvidia.com/labs/toronto-ai/GameGAN/assets/pacman_bandai_small.gif" width="500"/>
+
+## WHAM
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://copilot.microsoft.com/wham)
+[![arXiv](https://img.shields.io/badge/nature-black)](https://arxiv.org/abs/2405.12399)
+
+Microsoft Research's latest model focused on supporting creative processes in game development.
+
+### Quake 2
+
+[![Open Source](https://img.shields.io/badge/play-green)](https://copilot.microsoft.com/wham)
+
+<img src="https://github.com/user-attachments/assets/7668236d-c6e7-4ca7-a9cf-bdf34453b448" width="500"/>
+
 
 ### Doom
 
