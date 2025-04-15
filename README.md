@@ -15,6 +15,7 @@ Contributions are very welcome!
 - [Oasis](#oasis)
 - [Lucid](#lucid)
 - [World Arcade](#world-arcade)
+- [WHAM](#wham)
 - [GameGAN](#gamegan)
 - [Other Games](#other-games)
 - [Papers](#papers)
@@ -93,6 +94,18 @@ One size of the model and inference code are open-source.
 Setup to play all of the games above on Windows and Linux, with parameter selection to trade game performance for stability. 
 
 <img src="https://github.com/user-attachments/assets/cf1c553f-54cd-4f90-af52-457020070c4c" width="500"/>
+
+## WHAM
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://copilot.microsoft.com/wham)
+[![Nature](https://img.shields.io/badge/nature-black)](https://www.nature.com/articles/s41586-025-08600-3)
+
+Microsoft Research's latest model focused on supporting creative processes in game development.
+
+### Quake 2
+
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://aka.ms/muse-quakeii-whamm)
+
+<img src="https://github.com/user-attachments/assets/7668236d-c6e7-4ca7-a9cf-bdf34453b448" width="500"/>
 
 ## GameGAN
 
