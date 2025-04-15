@@ -15,8 +15,8 @@ Contributions are very welcome!
 - [Oasis](#oasis)
 - [Lucid](#lucid)
 - [World Arcade](#world-arcade)
+- [WHAM](#wham)
 - [GameGAN](#gamegan)
-- [WHAM](
 - [Other Games](#other-games)
 - [Papers](#papers)
 
@@ -95,15 +95,6 @@ Setup to play all of the games above on Windows and Linux, with parameter select
 
 <img src="https://github.com/user-attachments/assets/cf1c553f-54cd-4f90-af52-457020070c4c" width="500"/>
 
-## GameGAN
-
-[![Homepage](https://img.shields.io/badge/homepage-gray)](https://research.nvidia.com/labs/toronto-ai/GameGAN/)
-[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2005.12126)
-
-The Great-Grandfather of the field. Running games on a generative adversarial network.
-
-<img src="https://research.nvidia.com/labs/toronto-ai/GameGAN/assets/pacman_bandai_small.gif" width="500"/>
-
 ## WHAM
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://copilot.microsoft.com/wham)
 [![arXiv](https://img.shields.io/badge/nature-black)](https://arxiv.org/abs/2405.12399)
@@ -116,6 +107,14 @@ Microsoft Research's latest model focused on supporting creative processes in ga
 
 <img src="https://github.com/user-attachments/assets/7668236d-c6e7-4ca7-a9cf-bdf34453b448" width="500"/>
 
+## GameGAN
+
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://research.nvidia.com/labs/toronto-ai/GameGAN/)
+[![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2005.12126)
+
+The Great-Grandfather of the field. Running games on a generative adversarial network.
+
+<img src="https://research.nvidia.com/labs/toronto-ai/GameGAN/assets/pacman_bandai_small.gif" width="500"/>
 
 ### Doom
 
