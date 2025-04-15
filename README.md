@@ -97,13 +97,13 @@ Setup to play all of the games above on Windows and Linux, with parameter select
 
 ## WHAM
 [![Homepage](https://img.shields.io/badge/homepage-gray)](https://copilot.microsoft.com/wham)
-[![arXiv](https://img.shields.io/badge/nature-black)](https://arxiv.org/abs/2405.12399)
+[![Nature](https://img.shields.io/badge/nature-black)](https://www.nature.com/articles/s41586-025-08600-3)
 
 Microsoft Research's latest model focused on supporting creative processes in game development.
 
 ### Quake 2
 
-[![Open Source](https://img.shields.io/badge/play-green)](https://copilot.microsoft.com/wham)
+[![Homepage](https://img.shields.io/badge/homepage-gray)](https://aka.ms/muse-quakeii-whamm)
 
 <img src="https://github.com/user-attachments/assets/7668236d-c6e7-4ca7-a9cf-bdf34453b448" width="500"/>
 
